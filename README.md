@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-(https://github.com/user-attachments/files/29088653/README.md)
->>>>>>> 019821424977f9dae549909578a4b318766f15f7
 # Ads Analytics Pipeline
 
 End-to-end data engineering pipeline that ingests public **Google Ads** and **Meta Ads** benchmark data, processes it with **PySpark on Databricks**, stores it in a **Delta Lake star schema**, and surfaces insights through a **Power BI dashboard**.
