@@ -1,0 +1,17 @@
+# Streaming
+confluent-kafka>=2.3.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.26.0
+
+# PySpark + Delta Lake (requires Java 11+ on PATH)
+pyspark==3.5.0
+delta-spark==3.1.0
+
+# Visualisation (Power BI preview dashboard)
+matplotlib>=3.8.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
