@@ -6,9 +6,6 @@ End-to-end data engineering pipeline that ingests public **Google Ads** and **Me
 
 ## Architecture
 
-
-(docs/architecture.png)
-=======
 <img width="2544" height="1072" alt="architecture" src="https://github.com/user-attachments/assets/c95f261a-be71-4490-ad9f-4316fb945008" />
 
 
@@ -36,7 +33,6 @@ Google Ads / Meta Ads  ──►  Kafka / Azure Event Hubs  ──►  Databrick
 
 ## Power BI Dashboard Preview
 
-=======
 <img width="3026" height="2008" alt="dashboard" src="https://github.com/user-attachments/assets/a7e7066d-9aa6-4a7a-850f-eb6cb97cc28b" />
 
 
